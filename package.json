@@ -1,0 +1,23 @@
+{
+  "name": "hexdigits-plugin-barcode",
+  "version": "1.0.0",
+  "description": "Cordova In-Place Barcode Scanner Plugin",
+  "cordova": {
+    "platforms": [
+      "android"
+    ]
+  },
+  "keywords": [
+    "cordova",
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "engines": [
+    {
+      "name": "cordova-android",
+      "version": ">=4.0.0"
+    }
+  ],
+  "author": "hexdigits",
+  "license": "Apache 2.0"
+}
